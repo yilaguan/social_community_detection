@@ -1,4 +1,6 @@
-"Social-Community-Detection for TCM" 
+"Social-Community-Detection for TCM"
+====================
+
 ###一、数据说明
 1、数据存放在data/traditional_chinese_medicine_data.xlsx中 \
 2、数据的列从M(13)到BA(53)列都指的是证素、从BB(54)到FW(179)都是方剂，从FX(180)到UH(554)都是中药 \
